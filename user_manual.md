@@ -1,7 +1,7 @@
 # 📦 Ghid utilizare platformă MobilaUltra.ro
 
 **Ultima actualizare:** 2025-05-10  
-**Autor:** Nume Prenume  
+**Autor:** Gabriel Dobre  
 
 ---
 
@@ -25,7 +25,7 @@ Dacă ai uitat parola, folosește opțiunea **Recuperează parola** de pe pagina
 
 1. Mergi în secțiunea **Produse** din meniul de administrare.
 2. Găsește produsul pe care vrei să-l copiezi (ex: „Canapea Lira”).
-3. Apasă pe butonul **Clonează** sau **Duplicați** din dreptul produsului.
+3. Apasă pe butonul **Fa duplicat** din dreptul produsului.
 4. Se va genera un nou produs, cu aceleași informații.
 5. Modifică următoarele câmpuri:
    - **Nume produs**
@@ -37,6 +37,8 @@ Dacă ai uitat parola, folosește opțiunea **Recuperează parola** de pe pagina
 
 📸 **Exemplu:**
 ![Exemplu clonare produs](assets/clonare-produs.png)
+![Exemplu clonare produs](assets/clonare-produs.png)
+![Exemplu clonare produs](assets/clonare-produs.png)
 
 ---
 
@@ -46,20 +48,21 @@ Dacă ai uitat parola, folosește opțiunea **Recuperează parola** de pe pagina
 2. Selectează atributul **Culoare**.
 3. Apasă pe butonul **Adaugă opțiune**.
 4. Completează numele culorii (ex: „Verde Menta”).
-5. (Opțional) Încarcă o mostră de imagine pentru noua culoare.
-6. Salvează modificarea.
+5. Salvează modificarea.
 
 📸 **Exemplu:**
+![Adaugare culoare noua](assets/adaugare-culoare.png)
+![Adaugare culoare noua](assets/adaugare-culoare.png)
 ![Adaugare culoare noua](assets/adaugare-culoare.png)
 
 ---
 
 ## 💸 Modificarea prețurilor prin export/import fișier
 
-### Export prețuri:
+### Export produse:
 1. Accesează secțiunea **Produse**.
 2. Apasă pe butonul **Exportă**.
-3. Selectează câmpurile dorite (minim: Nume, SKU, Preț).
+3. Selectează câmpurile dorite (minim: Nume, SKU, Preț obisnuit).
 4. Descarcă fișierul în format Excel sau CSV.
 
 ### Modificare:
@@ -70,22 +73,10 @@ Dacă ai uitat parola, folosește opțiunea **Recuperează parola** de pe pagina
 ### Import prețuri:
 1. Mergi în secțiunea **Import** din platformă.
 2. Încarcă fișierul modificat.
-3. Asigură-te că mapezi corect câmpurile (SKU -> SKU, Preț -> Preț).
+3. Asigură-te că mapezi corect câmpurile (SKU -> SKU, Preț obisnuit -> Preț obisnuit).
 4. Apasă **Importă**.
 
 📌 Notă: Sistemul identifică produsele pe baza **SKU-ului**, deci acesta nu trebuie modificat.
 
 📸 **Exemplu mapping:**
 ![Mapping campuri import](assets/mapping-import.png)
-
----
-
-## 📞 Suport
-
-Pentru orice întrebări sau probleme, contactează:
-
-- **Nume Prenume** — Administrator Platformă  
-  📧 support@mobilaultra.ro  
-  📞 0730 123 456  
-
----
