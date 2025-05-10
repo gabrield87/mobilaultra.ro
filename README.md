@@ -16,7 +16,7 @@ Informatii valabile doar pentru backend users.
   - [Introducere produs nou prin copiere](#introducere-produs-nou-prin-copiere)
 
 ---
-## 🔐 Login
+## Login
 
 1. Acceseaza [https://mobilaultra.ro/admin](https://mobilaultra.ro/admin)
 2. Introdu adresa de e-mail si parola contului tau.
@@ -56,6 +56,10 @@ Insa, inainte de a introduce produsul, este necesar sa avem clar definite urmato
 ### Branduri
 
 ---
+
+## Info
+Instructiuni pas cu pas necesare promovarii produselor mobilaultra.ro. 
+
 ## Introducere produs nou prin copiere
 Cea mai simpla solutie este sa clonam un produs anterior cand vine vorba de adaugarea unui pat nou, indiferent ca incercam sa adaugam o culoare noua sau chiar un produs nou.<br>
 Motivul e simplu: prin clonarea produsului, acesta va porni deja cu mai multe atribute din produsul din care vom initia copierea: 
@@ -71,5 +75,25 @@ Motivul e simplu: prin clonarea produsului, acesta va porni deja cu mai multe at
  - spatiu depozitare
  - etc
 
-Mai departe ramane sa il personalizam cu noul nume, shortcode-ul pentru optimizarea SEO, cateogriile & subcategoriile, descriere si preturi. 
+Mai departe ramane sa il personalizam cu noul nume, permalinkul pentru optimizarea SEO, cateogriile & subcategoriile, descriere si preturi. 
 
+Cum facem asta? Simplu, urmarim pasii urmatori: 
+1. Mergi in secțiunea **Produse** din meniul de administrare.
+2. Gaseste produsul pe care vrei sa-l copiezi.
+3. Apasa pe butonul **Fa duplicat** din dreptul produsului. <br>
+   ![Clonare produs](assets/clonare-produs.png)
+4. Se va genera un nou produs, cu aceleasi informatii.
+5. Modifica urmatoarele campuri:
+    - **Nume produs**
+    - **Permalink** - click pe butonul **Editeaza** si copiaza numele produsului, urmand sa apesi **Ok**. <br>
+    ![Modificare permalink](assets/modificare-permalink.png)
+    - **SKU / EAN** - **raman necompletate** - vor fi adaugate la variatii.
+    - **Descriere** (daca este cazul)
+    - **Imagini** (incarca imaginile noului produs) <br>
+    ![Incarcare imagini](assets/incarcare-imagini.png)
+99. Salvează produsul nou.
+
+📸 **Sumar imagini exemplificative:**
+![Clonare produs](assets/clonare-produs.png)
+![Modificare permalink](assets/modificare-permalink.png)
+![Incarcare imagini](assets/incarcare-imagini.png)
