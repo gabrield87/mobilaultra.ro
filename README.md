@@ -1,5 +1,8 @@
 # MobilaUltra.ro
-Documentatie
+Documentatie pentru utilizatorii care administreaza eshop www.mobilaultra.ro.<br>
+Informatii valabile doar pentru backend users. 
+
+---
 
 ## Cuprins pagina documentatie
 - [WooCommerce](#woocommerce) - modul pentru comenzi online
@@ -8,11 +11,17 @@ Documentatie
 - [Produse](#produse)
   - [Categorii si subcategorii](#categorii)
 
+---
+
+
 ## WooCommerce
 
 ### Comenzi
 
 ### Clienti
+
+
+
 
 ## Produse
 
