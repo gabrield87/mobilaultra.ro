@@ -14,8 +14,20 @@ Informatii valabile doar pentru backend users.
   - [Branduri](#branduri) - nume colectie (Confort Plus, Spectaculos, Premium, etc)
 - [Informatii administrare magazin](#info)
   - [Introducere produs nou prin copiere](#introducere-produs-nou-prin-copiere)
+
 ---
+## 🔐 Login
+
+1. Acceseaza [https://mobilaultra.ro/admin](https://mobilaultra.ro/admin)
+2. Introdu adresa de e-mail si parola contului tau.
+3. Apasa pe **Login**.
+
+Dacă ai uitat parola, folosește optiunea **Recupereaza parola** de pe pagina de login.
+
+---
+
 ## WooCommerce
+WooCommerce este add-onul platformei care activeaza eshop-ul nostru. 
 
 ### Comenzi
 Aici se va scrie cum se procedeaza cu comenzile online: 
