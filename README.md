@@ -105,7 +105,7 @@ Cum facem asta? Simplu, urmarim pasii urmatori:
       - GTIN, UPC, EAN sau ISBN (copy/paste de la SKU).
       - Pret obisnuit (daca si unde e cazul).
     - Se va apasa pe butonul **Salveaza modificarile**.
-99. Salveaza produsul nou prin efectuarea unui click pe butonul **Publica** aflat in partea dreapta sus.
+8. Salveaza produsul nou prin efectuarea unui click pe butonul **Publica** aflat in partea dreapta sus.
 
 📸 **Sumar imagini exemplificative:**
 ![Clonare produs](assets/clonare-produs.png)
