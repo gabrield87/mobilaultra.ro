@@ -106,8 +106,3 @@ Cum facem asta? Simplu, urmarim pasii urmatori:
       - Pret obisnuit (daca si unde e cazul).
     - Se va apasa pe butonul **Salveaza modificarile**.
 8. Salveaza produsul nou prin efectuarea unui click pe butonul **Publica** aflat in partea dreapta sus.
-
-📸 **Sumar imagini exemplificative:**
-![Clonare produs](assets/clonare-produs.png)
-![Modificare permalink](assets/modificare-permalink.png)
-![Incarcare imagini](assets/incarcare-imagini.png)
