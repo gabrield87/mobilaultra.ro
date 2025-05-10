@@ -4,6 +4,7 @@ Informatii valabile doar pentru backend users.
 
 ---
 ## Cuprins pagina documentatie
+- [Login pe site](#login) - cum ne conectam in backend
 - [WooCommerce](#woocommerce) - modul pentru comenzi online
   - [Comenzi](#comenzi)
   - [Clienti](#clienti)
@@ -11,7 +12,8 @@ Informatii valabile doar pentru backend users.
   - [Categorii si subcategorii](#categorii-si-subcategorii-produse) - tip paturi (single/matrimonial), lazi, etc 
   - [Atribute](#atribute-produse) - culoare, dimensiuni, etc
   - [Branduri](#branduri) - nume colectie (Confort Plus, Spectaculos, Premium, etc)
-
+- [Informatii administrare magazin](#info)
+  - [Introducere produs nou prin copiere](#introducere-produs-nou-prin-copiere)
 ---
 ## WooCommerce
 
@@ -40,3 +42,22 @@ Insa, inainte de a introduce produsul, este necesar sa avem clar definite urmato
 ### Atribute produse
 
 ### Branduri
+
+---
+## Introducere produs nou prin copiere
+Cea mai simpla solutie este sa clonam un produs anterior cand vine vorba de adaugarea unui pat nou, indiferent ca incercam sa adaugam o culoare noua sau chiar un produs nou.<br>
+Motivul e simplu: prin clonarea produsului, acesta va porni deja cu mai multe atribute din produsul din care vom initia copierea: 
+ - culoare
+ - dimensiuni disponibile
+ - tip pat
+ - saltea inclusa
+ - somiera inclusa
+ - tip somiera
+ - caracteristici cheie
+ - structura
+ - material tapiterie
+ - spatiu depozitare
+ - etc
+
+Mai departe ramane sa il personalizam cu noul nume, shortcode-ul pentru optimizarea SEO, cateogriile & subcategoriile, descriere si preturi. 
+
