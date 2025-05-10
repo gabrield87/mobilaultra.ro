@@ -91,7 +91,21 @@ Cum facem asta? Simplu, urmarim pasii urmatori:
     - **Descriere** (daca este cazul)
     - **Imagini** (incarca imaginile noului produs) <br>
     ![Incarcare imagini](assets/incarcare-imagini.png)
-99. Salvează produsul nou.
+6. Modifica atributele produsului: 
+    - Click pe **Atribute** aflat sub zona de descriere a produsului. 
+    - Alege atributul pe care doresti sa il modifici (ex: Culoare).
+    - Cauta valoarea dorita si adauga pe lista. 
+    - Sterge valoarea anterioara. 
+    - Scroll mai jos si apasa butonul **Salveaza atributele**.
+7. Modifica variatiile produsului (de regula se regasesc variatii ale dimensiunilor (cm)):
+    - Click pe **Variatii** aflat sub zona de descriere a produsului. 
+    - Se va face expand folosind **Editeaza** pe fiecare variatie.
+    - Se vor introduce elementele:
+      - SKU.
+      - GTIN, UPC, EAN sau ISBN (copy/paste de la SKU).
+      - Pret obisnuit (daca si unde e cazul).
+    - Se va apasa pe butonul **Salveaza modificarile**.
+99. Salveaza produsul nou prin efectuarea unui click pe butonul **Publica** aflat in partea dreapta sus.
 
 📸 **Sumar imagini exemplificative:**
 ![Clonare produs](assets/clonare-produs.png)
