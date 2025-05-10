@@ -1,82 +1,91 @@
-# 📊 Sales Performance Dashboard Documentation
+# 📦 Ghid utilizare platformă MobilaUltra.ro
 
-**Last Updated:** 2025-05-10  
-**Author:** Jane Doe  
-
----
-
-## 📌 Purpose
-
-This document provides an overview of the **Sales Performance Dashboard**. It is intended for business users to understand how to navigate the dashboard, interpret key metrics, and apply insights to decision-making.
+**Ultima actualizare:** 2025-05-10  
+**Autor:** Nume Prenume  
 
 ---
 
-## 📊 What This Is
+## 📌 Scop
 
-The **Sales Performance Dashboard** is an interactive reporting tool that tracks and visualizes sales performance metrics, helping business teams monitor progress, identify trends, and make data-driven decisions.
-
----
-
-## 📈 Key Features
-
-- **Monthly Sales Trends:** Visualizes sales over time to track performance and seasonality.
-- **Top-Performing Products:** Highlights products with the highest revenue and units sold.
-- **Regional Sales Breakdown:** Displays sales data by region for easy comparison.
+Acest document oferă instrucțiuni clare pentru utilizatorii business ai platformei **MobilaUltra.ro**, privind gestionarea produselor și actualizarea prețurilor în platformă.
 
 ---
 
-## 📖 How to Use
+## 🔐 Login pe site
 
-1. **Access the Dashboard**  
-   Navigate to [dashboard link] or open it from the internal reporting portal.
+1. Accesează [https://mobilaultra.ro/admin](https://mobilaultra.ro/admin)
+2. Introdu adresa de e-mail și parola contului tău.
+3. Apasă pe **Login**.
 
-2. **Select Date Range**  
-   Use the date picker at the top to filter sales data by specific months or years.
-
-   ![Screenshot showing date range picker](assets/date-range-picker.png)
-
-3. **Review Summary KPIs**  
-   Key metrics including Total Sales, Total Orders, and Average Order Value appear at the top.
-
-   <img src="assets/summary-kpis.png" alt="Summary KPIs section" width="600"/>
-
-4. **Interact with Charts**  
-   Click on bars or segments within charts to drill down into specific data points.
-
-5. **Export Data**  
-   Use the ‘Export’ button at the top right to download raw data in Excel format.
+Dacă ai uitat parola, folosește opțiunea **Recuperează parola** de pe pagina de login.
 
 ---
 
-## 📚 Business Rules / Logic
+## 🆕 Introducere produs nou prin copierea unuia existent
 
-- **Total Sales** = Sum of all completed transactions within the selected date range.
-- **Average Order Value** = Total Sales ÷ Total Orders.
-- **Top-Performing Products** are ranked by revenue, not units sold.
-- **Regions** are defined by the location of the customer’s shipping address.
+1. Mergi în secțiunea **Produse** din meniul de administrare.
+2. Găsește produsul pe care vrei să-l copiezi (ex: „Canapea Lira”).
+3. Apasă pe butonul **Clonează** sau **Duplicați** din dreptul produsului.
+4. Se va genera un nou produs, cu aceleași informații.
+5. Modifică următoarele câmpuri:
+   - **Nume produs**
+   - **SKU / Cod unic**
+   - **Preț**
+   - **Descriere** (dacă este cazul)
+   - **Imagini** (încarcă imaginile noului produs)
+6. Salvează produsul nou.
 
----
-
-## 💡 FAQs
-
-**Q:** Can I view sales by product category?  
-**A:** Yes — use the filter on the left sidebar to select specific product categories.
-
-**Q:** How often is the dashboard data updated?  
-**A:** Data is refreshed daily at 2:00 AM.
-
-**Q:** Can I download the dashboard visuals?  
-**A:** Yes — right-click any chart and select ‘Download Image’.
+📸 **Exemplu:**
+![Exemplu clonare produs](assets/clonare-produs.png)
 
 ---
 
-## 📞 Support / Contact
+## 🎨 Adăugare atribut nou (culoare nouă)
 
-For assistance or feedback, please contact:
+1. Din meniul de administrare, accesează secțiunea **Atribute**.
+2. Selectează atributul **Culoare**.
+3. Apasă pe butonul **Adaugă opțiune**.
+4. Completează numele culorii (ex: „Verde Menta”).
+5. (Opțional) Încarcă o mostră de imagine pentru noua culoare.
+6. Salvează modificarea.
 
-- **Jane Doe** — Business Intelligence Analyst  
-  📧 jane.doe@company.com  
-  📞 (123) 456-7890  
+📸 **Exemplu:**
+![Adaugare culoare noua](assets/adaugare-culoare.png)
 
 ---
 
+## 💸 Modificarea prețurilor prin export/import fișier
+
+### Export prețuri:
+1. Accesează secțiunea **Produse**.
+2. Apasă pe butonul **Exportă**.
+3. Selectează câmpurile dorite (minim: Nume, SKU, Preț).
+4. Descarcă fișierul în format Excel sau CSV.
+
+### Modificare:
+1. Deschide fișierul în Excel.
+2. Actualizează coloana **Preț** pentru produsele dorite.
+3. Salvează fișierul.
+
+### Import prețuri:
+1. Mergi în secțiunea **Import** din platformă.
+2. Încarcă fișierul modificat.
+3. Asigură-te că mapezi corect câmpurile (SKU -> SKU, Preț -> Preț).
+4. Apasă **Importă**.
+
+📌 Notă: Sistemul identifică produsele pe baza **SKU-ului**, deci acesta nu trebuie modificat.
+
+📸 **Exemplu mapping:**
+![Mapping campuri import](assets/mapping-import.png)
+
+---
+
+## 📞 Suport
+
+Pentru orice întrebări sau probleme, contactează:
+
+- **Nume Prenume** — Administrator Platformă  
+  📧 support@mobilaultra.ro  
+  📞 0730 123 456  
+
+---
