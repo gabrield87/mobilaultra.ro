@@ -110,7 +110,7 @@ Cum facem asta? Simplu, urmarim pasii urmatori:
     - Se va apasa pe butonul **Salveaza modificarile**.
     ![atribute-variatii-save](assets/atribute-variatii-save.png)
 8. Alege categoria si brandul corect regasite in panoul dreapta: <br>
-   ![branduri](assets/branduri.png)
    ![categorii](assets/categorii.png)
-8. Salveaza produsul nou prin efectuarea unui click pe butonul **Publica** aflat in partea dreapta sus.
+   ![branduri](assets/branduri.png)
+99. Salveaza produsul nou prin efectuarea unui click pe butonul **Publica** aflat in partea dreapta sus.
    ![publica-produs](assets/publica-produs.png)
