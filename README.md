@@ -97,12 +97,16 @@ Cum facem asta? Simplu, urmarim pasii urmatori:
     - Cauta valoarea dorita si adauga pe lista. 
     - Sterge valoarea anterioara. 
     - Scroll mai jos si apasa butonul **Salveaza atributele**.
+    ![atribute-culoare](assets/atribute-culoare.png)
 7. Modifica variatiile produsului (de regula se regasesc variatii ale dimensiunilor (cm)):
-    - Click pe **Variatii** aflat sub zona de descriere a produsului. 
+    - Click pe **Variatii** aflat sub zona de descriere a produsului.
+    ![atribute-variatii-modificari](assets/atribute-variatii.png)
     - Se va face expand folosind **Editeaza** pe fiecare variatie.
     - Se vor introduce elementele:
       - SKU.
       - GTIN, UPC, EAN sau ISBN (copy/paste de la SKU).
       - Pret obisnuit (daca si unde e cazul).
+    ![atribute-variatii-modificari](assets/atribute-variatii-modificari.png)
     - Se va apasa pe butonul **Salveaza modificarile**.
+    ![atribute-variatii-save](assets/atribute-variatii-save.png)
 8. Salveaza produsul nou prin efectuarea unui click pe butonul **Publica** aflat in partea dreapta sus.
